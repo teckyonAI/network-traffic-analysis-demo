@@ -30,5 +30,22 @@ This project is built using **Python** and popular **network analysis tools**:
 
 ---
 
-## **📂 Project Structure**  
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/teckyonAI/network_traffic_analysis_demo.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd network_traffic_analysis_demo
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+
+---
+
 
