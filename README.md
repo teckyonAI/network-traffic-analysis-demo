@@ -47,5 +47,23 @@ Follow these steps to set up the project locally:
     pip install -r requirements.txt
 
 ---
+## Usage
+
+### 1. Capture Network Traffic  
+
+- **Using tcpdump**:  `bash capture/capture_tcpdump.sh`
+- **Using Scapy** (Python-based capture): `python capture/capture_scapy.py`
+
+### 2. Analyze Captured Traffic 
+Capture traffic can be analyzed by running `python capture/analyze_pcap.py`. 
+
+
+---
+## Contribution
+
+Contributions are welcome! Here's how you can contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a detailed explanation of the changes.
 
 
