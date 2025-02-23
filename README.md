@@ -1,4 +1,4 @@
-# **Network Traffic Analysis Demo** 📡  
+# **Network Traffic Analysis Demo**  
 
 🚀 **Analyze and Visualize Network Traffic using Tcpdump, TShark & Scapy**  
 
