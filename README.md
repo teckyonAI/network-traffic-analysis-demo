@@ -55,7 +55,7 @@ Follow these steps to set up the project locally:
 - **Using Scapy** (Python-based capture): `python capture/capture_scapy.py`
 
 ### 2. Analyze Captured Traffic 
-Capture traffic can be analyzed by running `python capture/analyze_pcap.py`. 
+- Capture traffic can be analyzed by running `python capture/analyze_pcap.py`. 
 
 
 ---
